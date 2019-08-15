@@ -14,7 +14,7 @@ project are below.
 
 Run this code in the terminal to open the jupyter notebook containing the project:
 
-`jupyter notebook Breakout DQN`
+`jupyter notebook Breakout\ DQN.ipynb`
 
 Alternatively, you can view the HTML version of this notebook here: [Breakout DQN.html](Breakout%20DQN.html)
 
