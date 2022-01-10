@@ -1,6 +1,6 @@
 numpy==1.16.2
 tensorflow==1.14.0
-opencv_python==4.1.0.25
+opencv_python==4.2.0.32
 pandas==0.24.2
 gym==0.14.0
 Keras==2.2.4
