@@ -1,4 +1,4 @@
-# Udacity Machine Learning Nanodegree Capstone Project
+# Udacity Machine Learning Engineer Nanodegree Capstone Project
 This repository contains the final capstone project for the [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) program. 
 
 In this project we have trained a Deep Neural Network to play the classic game Atari Breakout. The neural network model is trained with the help of DQN algorithm. 
